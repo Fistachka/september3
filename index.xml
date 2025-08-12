@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>september3</repo>
-  <version>v1.0.12</version>
+  <version>v1.0.13</version>
   <next number="1" owner="Fistachka" repo="september4"/>
   <readme>
     <ru>fb7d15bbf47439f3cf02f5255242ab6beaee4d05faf061a41240b38a191e91d6</ru>
@@ -178,14 +178,14 @@
     <tonalities>6</tonalities>
     <video name="34t.mp4" size="1648058" type="video/mp4" volume="0.5">67df408d476dfb3242cc58855f46cd4042676e96b0721745500a064f0bd30552</video>
     <notes>
-      <note number="1" values="85" ticks="72" durationTicks="30" ppq="96" velocity="0.843"/>
-      <note number="2" values="86" ticks="104" durationTicks="25" ppq="96" velocity="0.906"/>
-      <note number="3" values="3" ticks="127" durationTicks="65" ppq="96" velocity="0.906"/>
-      <note number="4" values="85" ticks="257" durationTicks="25" ppq="96" velocity="0.906"/>
-      <note number="5" values="86" ticks="284" durationTicks="28" ppq="96" velocity="0.906"/>
-      <note number="6" values="3" ticks="311" durationTicks="105" ppq="96" velocity="0.906"/>
-      <note number="7" values="4" ticks="425" durationTicks="27" ppq="96" velocity="0.906"/>
-      <note number="8" values="2" ticks="453" durationTicks="96" ppq="96" velocity="0.906"/>
+      <note number="1" values="85" ticks="86" durationTicks="30" ppq="96" velocity="0.843"/>
+      <note number="2" values="86" ticks="118" durationTicks="25" ppq="96" velocity="0.906"/>
+      <note number="3" values="3" ticks="141" durationTicks="65" ppq="96" velocity="0.906"/>
+      <note number="4" values="85" ticks="264" durationTicks="25" ppq="96" velocity="0.906"/>
+      <note number="5" values="86" ticks="288" durationTicks="28" ppq="96" velocity="0.906"/>
+      <note number="6" values="3" ticks="317" durationTicks="91" ppq="96" velocity="0.906"/>
+      <note number="7" values="4" ticks="409" durationTicks="27" ppq="96" velocity="0.906"/>
+      <note number="8" values="2" ticks="435" durationTicks="96" ppq="96" velocity="0.906"/>
     </notes>
   </exercise>
 </level>
