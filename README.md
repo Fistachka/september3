@@ -1,45 +1,46 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 Михаил Шуфутинский - "Третье сентября"
-1 куплет
+2 куплет
 
-![3 september](https://github.com/user-attachments/assets/67505fa3-6ec5-4016-8819-10d0c3385c30)
+![заст 3 2](https://github.com/user-attachments/assets/5bd9fbe4-1842-4712-8ec1-e7e7e0aa52a0)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/3Yy3haGDurA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JoQBHYZdkuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Всё не то, всё не так
-Ты мой друг, я твой враг
-Как же так всё у нас с тобою?
-Был апрель, и в любви
-Мы клялись, но, увы
-Пролетел жёлтый лист
-По бульварам Москвы
+Журавлей белый клин
+Твоя дочь и мой сын
+Все хотят теплоты И ласки
+Мы в любовь, как в игру
+На холодном ветру
+Поиграли с тобой
+Но пришёл сам собой
 Третье сентября — день прощания
 День, когда горят костры рябин
 Как костры, горят обещания
 В день, когда я совсем один
-<br><br>
+
+Предыдущий урок: stolbitsa.com/fistachka/september2<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 Mikhail Shufutinsky's "3 сентября" (September 3rd) 
-![3 september](https://github.com/user-attachments/assets/67505fa3-6ec5-4016-8819-10d0c3385c30)
+![заст 3 2](https://github.com/user-attachments/assets/5bd9fbe4-1842-4712-8ec1-e7e7e0aa52a0)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/mA60zTw0vWo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZxyaC5_WoM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Vsyo ne to, vsyo ne tak
-Ty moj drug, ya tvoj vrag
-Kak zhe tak vsyo u nas s toboyu?
-Byl aprel', i v lyubvi
-My klyalis', no, uvy
-Proletel zhyoltyj list
-Po bul'varam Moskvy
+ZHuravlej belyj klin
+Tvoya doch' i moj syn
+Vse hotyat teploty I laski
+My v lyubov', kak v igru
+Na holodnom vetru
+Poigrali s toboj
+No prishyol sam soboj
 Tret'e sentyabrya — den' proshchaniya
 Den', kogda goryat kostry ryabin
 Kak kostry, goryat obeshchaniya
-V den', kogda ya sovsem odin<br><br>
-![заст 3 2](https://github.com/user-attachments/assets/5bd9fbe4-1842-4712-8ec1-e7e7e0aa52a0)
-![заст 3 1](https://github.com/user-attachments/assets/a770ebd9-7dad-42ca-84e3-b40e2a5f64e4)
+V den', kogda ya sovsem odin
+
+Previous lesson: stolbitsa.com/fistachka/september2<br><br>
 
