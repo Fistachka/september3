@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>september3</repo>
-  <version>v1.0.10</version>
+  <version>v1.0.11</version>
   <next number="1" owner="Fistachka" repo="september4"/>
   <readme>
     <ru>fb7d15bbf47439f3cf02f5255242ab6beaee4d05faf061a41240b38a191e91d6</ru>
@@ -142,15 +142,15 @@
     <tonalities>6</tonalities>
     <video name="32t.mp4" size="1969661" type="video/mp4" volume="0.5">72ee60679bb745bd4eb48b952a4c5e3fd3f1917cd82ee2c504b7e90c0e931c4e</video>
     <notes>
-      <note number="1" values="5" ticks="47" durationTicks="50" ppq="96" velocity="0.929"/>
-      <note number="2" values="1" ticks="143" durationTicks="34" ppq="96" velocity="0.847"/>
-      <note number="3" values="1" ticks="192" durationTicks="23" ppq="96" velocity="0.906"/>
-      <note number="4" values="5" ticks="215" durationTicks="25" ppq="96" velocity="0.897"/>
-      <note number="5" values="4" ticks="240" durationTicks="94" ppq="96" velocity="0.842"/>
-      <note number="6" values="4" ticks="479" durationTicks="50" ppq="96" velocity="0.832"/>
-      <note number="7" values="18" ticks="531" durationTicks="44" ppq="96" velocity="0.906"/>
-      <note number="8" values="7" ticks="604" durationTicks="26" ppq="96" velocity="0.927"/>
-      <note number="9" values="5" ticks="632" durationTicks="49" ppq="96" velocity="0.819"/>
+      <note number="1" values="5" ticks="71" durationTicks="50" ppq="96" velocity="0.929"/>
+      <note number="2" values="1" ticks="165" durationTicks="34" ppq="96" velocity="0.847"/>
+      <note number="3" values="1" ticks="214" durationTicks="23" ppq="96" velocity="0.906"/>
+      <note number="4" values="5" ticks="237" durationTicks="25" ppq="96" velocity="0.897"/>
+      <note number="5" values="4" ticks="262" durationTicks="94" ppq="96" velocity="0.842"/>
+      <note number="6" values="4" ticks="501" durationTicks="50" ppq="96" velocity="0.832"/>
+      <note number="7" values="18" ticks="553" durationTicks="44" ppq="96" velocity="0.906"/>
+      <note number="8" values="7" ticks="631" durationTicks="26" ppq="96" velocity="0.927"/>
+      <note number="9" values="5" ticks="659" durationTicks="49" ppq="96" velocity="0.819"/>
     </notes>
   </exercise>
   <exercise number="10">
