@@ -5,8 +5,8 @@
 
 ![заст 3 2](https://github.com/user-attachments/assets/5bd9fbe4-1842-4712-8ec1-e7e7e0aa52a0)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/3Yy3haGDurA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JoQBHYZdkuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/30ag6iz578E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Btr-3ZRi6kg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Журавлей белый клин
 Твоя дочь и мой сын
@@ -27,8 +27,8 @@
 Mikhail Shufutinsky's "3 сентября" (September 3rd) 
 ![заст 3 2](https://github.com/user-attachments/assets/5bd9fbe4-1842-4712-8ec1-e7e7e0aa52a0)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/mA60zTw0vWo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zZxyaC5_WoM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/LYfkG4f71LI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ijr-QfJMS64" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 ZHuravlej belyj klin
 Tvoya doch' i moj syn
